@@ -1,0 +1,5 @@
+[
+  ["Infinite Yeld Server Edition", "An edition of the Infinite Yeld script specificaly designed for serverside use.", "require(13716575182)(\"%USERNAME%\")"],
+  ["HD Admin UI", "A GUI that is able to rank you and insert HD Admin into your game.", "require(10592830213).HD(\"%USERNAME%\")"],
+  ["Script Logger", "UI that logs other players scripts when they type them in guis. Also logs them in a datastore.", "require(13802214859).lgr(\"%USERNAME%\")"]
+]
